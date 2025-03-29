@@ -4,9 +4,6 @@ Converted to GitHub via [cbt2git](https://github.com/wizardofzos/cbt2git)
 This is still a work in progress. GitHub repos will be deleted and created during this period...
 
 ```
-//*    FILE 134 (SOURCE) AND/OR FILE 135 (LOAD) FROM GREG PRICE.    *   DOC FILE
-//*            FILE 134.                                            *   DOC FILE
-//*            FILE 134, BUT A FEW ARE IN LOAD MODULE FORMAT ONLY.  *   DOC FILE
 //***FILE 134 is from Mr Greg Price of Prycroft Six                 *   FILE 134
 //*           in Melbourne,  Victoria,  Australia.                  *   FILE 134
 //*                                                                 *   FILE 134
